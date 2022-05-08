@@ -25,7 +25,7 @@ Scroll down and untick block all public access. This is a safety feature of S3, 
 
 
 Select the disk:  <br/>
-<img src="https://imgur.com/YLFvbiO" height="100%" width="100%" alt="Step 2"/>
+<img src="https://i.imgur.com/YLFvbiO.png" height="100%" width="100%" alt="Step 2"/>
 <br />
 <br />
 Enter the number of passes: <br/>
