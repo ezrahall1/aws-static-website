@@ -43,6 +43,12 @@ In the index document section make sure you have added index.html and error.html
 <br />
 Scroll down to static website hosting section and make a note of your bucket URL.
 <img src="https://i.imgur.com/bCb30OR.png" height="80%" width="80%" alt="Image 7"/>
+
+The next step is to upload some objects to the bucket you have created. In order to do that you would need to scroll to the top of the page and click on objects, then click on upload.
+Click on upload, click on add files and add the two html files (index.html and error.html). 
+<img src="https://i.imgur.com/AQICKJI.png" height="80%" width="80%" alt="Image 8"/>
+
+
 </p>
 
 <!--
