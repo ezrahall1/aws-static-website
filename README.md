@@ -17,7 +17,7 @@ Project consists of a simple static website created in AWS. The project provides
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/a/PvFeZ0T" height="200%" width="200%" alt="Step 1"/>
+<img src="https://imgur.com/a/KQADoOU" height="200%" width="200%" alt="Step 1"/>
 <br />
 <br />
 Select the disk:  <br/>
