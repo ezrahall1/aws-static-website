@@ -1,4 +1,4 @@
-<h1>Static Website</h1>
+<h1>AWS Static Website</h1>
 
 <h2>Description</h2>
 Project consists of a simple static website created in AWS. The project provides a step by step guide on how to build the static website and what the end result would look like.
@@ -17,7 +17,7 @@ Project consists of a simple static website created in AWS. The project provides
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/a/PvFeZ0T" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/PvFeZ0T" height="80%" width="80%" alt="Step 1"/>
 <br />
 <br />
 Select the disk:  <br/>
