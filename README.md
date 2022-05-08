@@ -14,7 +14,7 @@ Project consists of a simple static website created in AWS. The project provides
 - <b>AWS</b>
 
 <h2>Program walk-through:</h2>
-<b>Step 1 - Creating S3 bucket</b>
+<H3>Step 1 - Creating S3 bucket</H3>
 
 Once you have log into the AWS account you would need to click on services>S3>click on create bucket. Make sure the bucket name is unique or you would not be able to create the bucket successfully. 
 <img src="https://i.imgur.com/O3PUwO6.png" height="100%" width="100%" alt="Image 1"/>
