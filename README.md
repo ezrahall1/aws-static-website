@@ -14,7 +14,7 @@ Project consists of a simple static website created in AWS. The project provides
 - <b>AWS</b>
 
 <h2>Program walk-through:</h2>
-<b>Step 1 - Creating S3 bucket:</b>
+<b>Step 1 - Creating S3 bucket</b>
 
 Once you have log into the AWS account you would need to click on services>S3>click on create bucket. Make sure the bucket name is unique or you would not be able to create the bucket successfully. 
 <img src="https://i.imgur.com/O3PUwO6.png" height="100%" width="100%" alt="Image 1"/>
@@ -32,6 +32,7 @@ Leave everything else as default scroll to the bottom and click create bucket. <
 <img src="https://i.imgur.com/OlsCav4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+<b>Step 2 – Enable static website hosting</b>
 Wait for process to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
