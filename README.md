@@ -41,8 +41,8 @@ In the index document section make sure you have added index.html and error.html
 <img src="https://i.imgur.com/agU4L6a.png" height="80%" width="80%" alt="Image 6"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Scroll down to static website hosting section and make a note of your bucket URL.
+<img src="https://i.imgur.com/bCb30OR.png" height="80%" width="80%" alt="Image 7"/>
 </p>
 
 <!--
