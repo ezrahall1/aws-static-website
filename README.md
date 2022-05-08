@@ -18,7 +18,6 @@ Project consists of a simple static website created in AWS. The project provides
 <p align="center">
 Launch the utility: <br/>
 <img src="https://imgur.com/a/KQADoOU" height="200%" width="200%" alt="Step 1"/>
- <blockquote class="imgur-embed-pub" lang="en" data-id="a/KQADoOU" data-context="false" ><a href="//imgur.com/a/KQADoOU"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <br />
 <br />
 Select the disk:  <br/>
