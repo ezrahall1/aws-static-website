@@ -28,8 +28,8 @@ Tick the acknowledge box to show that you understand the changes you are making.
 <img src="https://i.imgur.com/vn34t2z.png" height="80%" width="80%" alt="Image 3"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Leave everything else as default scroll to the bottom and click create bucket. <br/>
+<img src="https://i.imgur.com/OlsCav4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
