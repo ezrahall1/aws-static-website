@@ -33,8 +33,8 @@ Leave everything else as default scroll to the bottom and click create bucket. <
 <br />
 <br />
 <b>Step 2 – Enable static website hosting</b>
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Click on the name of your bucket, then click on properties scroll down to the bottom where it says static website hosting and click on edit. Click on enable and make sure host a static website is selected.
+<img src="https://i.imgur.com/D92cAzu.png" height="80%" width="80%" alt="Image 4"/>
 <br />
 <br />
 Sanitization complete:  <br/>
