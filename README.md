@@ -51,8 +51,8 @@ Click on upload, click on add files and add the two html files (index.html and e
 <H3>Step 3 – Grant permissions</H3>
 The next step is you need to grant permissions to be able to read these objects. You would need to create a bucket policy. Click on the permission tab scroll down to where is says bucket policy click on edit. When entering the policy details remember to update the arn so it is not the same as mine or else it would not work, click on save changes.
 <img src="https://i.imgur.com/mlZjKBx.png" height="80%" width="80%" alt="Image 9"/>
-
 Based on the policy you have created you will now see a red banner stating, “publicly accessible”, which means the bucket can be access by anyone.
+
 <img src="https://i.imgur.com/PGbBV1i.png" height="80%" width="80%" alt="Image 10"/>
 
 This shows that I successfully created a static website in AWS
