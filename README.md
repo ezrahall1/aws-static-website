@@ -37,8 +37,8 @@ Click on the name of your bucket, then click on properties scroll down to the bo
 <img src="https://i.imgur.com/D92cAzu.png" height="80%" width="80%" alt="Image 4"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+In the index document section make sure you have added index.html and error.html in the correct text area, click save changes.
+<img src="https://i.imgur.com/agU4L6a.png" height="80%" width="80%" alt="Image 6"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
