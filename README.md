@@ -61,13 +61,3 @@ This shows that I successfully created a static website in AWS
 <img src="https://i.imgur.com/c8KFtkW.png" height="80%" width="80%" alt="Image 10"/>
 
 </p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
