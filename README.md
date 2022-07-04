@@ -21,7 +21,7 @@ This project shows how I created a static website using S3 bucket.
 Once I had logged into the AWS account I clicked on services>S3>clicked on create bucket. I made sure the bucket name is unique or else I would not be able to create the bucket successfully. 
 <img src="https://i.imgur.com/O3PUwO6.png" height="80%" width="80%" alt="Image 1"/>
 
-Scroll down and untick block all public access. This is a safety feature of S3, but because I am intentionally creating an S3 bucket to be used as a static website, you need to untick this box. Unticking this box means that you will be able to grant public access. It does not mean that public access is granted automatically.
+Scroll down and untick block all public access. This is a safety feature of S3, but because I am intentionally creating an S3 bucket to be used as a static website, I need to untick this box. Unticking this box means that I will be able to grant public access. It does not mean that public access is granted automatically.
 <br />
 <br />
 <img src="https://i.imgur.com/YLFvbiO.png" height="80%" width="80%" alt="Image 2"/>
