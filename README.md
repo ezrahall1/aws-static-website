@@ -2,6 +2,7 @@
 
 <h2>Description</h2>
 Amazon Simple Storage Service (Amazon S3) is an object storage service that offers industry-leading scalability, data availability, security, and performance.
+
 This project shows how I created a static website using S3 bucket. 
 <br />
 
@@ -17,10 +18,10 @@ This project shows how I created a static website using S3 bucket.
 <h2>Program walk-through:</h2>
 <H3>Step 1 - Creating S3 bucket</H3>
 
-Once you have log into the AWS account you would need to click on services>S3>click on create bucket. Make sure the bucket name is unique or you would not be able to create the bucket successfully. 
+Once I had logged into the AWS account I clicked on services>S3>clicked on create bucket. I made sure the bucket name is unique or else I would not be able to create the bucket successfully. 
 <img src="https://i.imgur.com/O3PUwO6.png" height="80%" width="80%" alt="Image 1"/>
 
-Scroll down and untick block all public access. This is a safety feature of S3, but because you are intentionally creating a S3 bucket to be used as a static website, you need to untick this box. Unticking this box means that you will be able to grant public access. It does not mean that public access is granted automatically.
+Scroll down and untick block all public access. This is a safety feature of S3, but because I am intentionally creating an S3 bucket to be used as a static website, you need to untick this box. Unticking this box means that you will be able to grant public access. It does not mean that public access is granted automatically.
 <br />
 <br />
 <img src="https://i.imgur.com/YLFvbiO.png" height="80%" width="80%" alt="Image 2"/>
