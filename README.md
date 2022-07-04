@@ -49,7 +49,6 @@ I scrolled down to static website hosting section and make a note of my bucket U
 
 The next step I uploaded some objects to the bucket I have created. 
 
-Click on upload, click on add files and add the two html files (index.html and error.html). 
 <img src="https://i.imgur.com/AQICKJI.png" height="80%" width="80%" alt="Image 8"/>
 
 <H3>Step 3 – Grant permissions</H3>
