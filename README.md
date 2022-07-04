@@ -36,15 +36,15 @@ Leave everything else as default scroll to the bottom and click create bucket. <
 <br />
 <br />
 <H3>Step 2 – Enable static website hosting </H3>
-Click on the name of your bucket, then click on properties scroll down to the bottom where it says static website hosting and click on edit. Click on enable and make sure host a static website is selected.
+Once I had clicked on the name of my bucket, I clicked on properties and scroll down to the bottom where it says static website hosting and click on edit. I clicked  on enable and make sure host a static website is selected.
 <img src="https://i.imgur.com/D92cAzu.png" height="80%" width="80%" alt="Image 4"/>
 <br />
 <br />
-In the index document section make sure you have added index.html and error.html in the correct text area, click save changes.
+In the index document section I made sure to have added index.html and error.html in the correct text area, click save changes.
 <img src="https://i.imgur.com/agU4L6a.png" height="80%" width="80%" alt="Image 6"/>
 <br />
 <br />
-Scroll down to static website hosting section and make a note of your bucket URL.
+Its important to maScroll down to static website hosting section and make a note of your bucket URL.
 <img src="https://i.imgur.com/bCb30OR.png" height="80%" width="80%" alt="Image 7"/>
 
 The next step is to upload some objects to the bucket you have created. In order to do that you would need to scroll to the top of the page and click on objects, then click on upload.
