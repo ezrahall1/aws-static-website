@@ -44,10 +44,10 @@ In the index document section I made sure to have added index.html and error.htm
 <img src="https://i.imgur.com/agU4L6a.png" height="80%" width="80%" alt="Image 6"/>
 <br />
 <br />
-Its important to maScroll down to static website hosting section and make a note of your bucket URL.
+I scrolled down to static website hosting section and make a note of my bucket URL.
 <img src="https://i.imgur.com/bCb30OR.png" height="80%" width="80%" alt="Image 7"/>
 
-The next step is to upload some objects to the bucket you have created. In order to do that you would need to scroll to the top of the page and click on objects, then click on upload.
+The next step I uploaded some objects to the bucket I have created. 
 
 Click on upload, click on add files and add the two html files (index.html and error.html). 
 <img src="https://i.imgur.com/AQICKJI.png" height="80%" width="80%" alt="Image 8"/>
