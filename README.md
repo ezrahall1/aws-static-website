@@ -52,7 +52,8 @@ The next step I uploaded some objects to the bucket I have created.
 <img src="https://i.imgur.com/AQICKJI.png" height="80%" width="80%" alt="Image 8"/>
 
 <H3>Step 3 – Grant permissions</H3>
-Tn this final step I had to grant permissions to be able to read the objects. I created a bucket policy. Clicked on the permission tab scroll down to where is says bucket policy click on edit.
+In this final step I had to grant permissions to be able to read the objects within the bucket policy I created.
+
 <img src="https://i.imgur.com/mlZjKBx.png" height="80%" width="80%" alt="Image 9"/>
 The red banner stating, “publicly accessible”, means the bucket can be access by anyone.
 
