@@ -1,7 +1,7 @@
 <h1>Creating Static Website</h1>
 
 <h2>Description</h2>
-Amazon Simple Storage Service (Amazon S3) is an object storage service that offers industry-leading scalability, data availability, security, and performance.
+AWS Simple Storage Service is an object storage service that offers industry-leading scalability, data availability, security, and performance.
 
 This project shows how I created a static website using S3 bucket. 
 <br />
