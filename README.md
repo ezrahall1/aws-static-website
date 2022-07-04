@@ -27,11 +27,11 @@ Scroll down and untick block all public access. This is a safety feature of S3, 
 <img src="https://i.imgur.com/YLFvbiO.png" height="80%" width="80%" alt="Image 2"/>
 <br />
 <br />
-Tick the acknowledge box to show that you understand the changes you are making. <br/>
+
 <img src="https://i.imgur.com/vn34t2z.png" height="80%" width="80%" alt="Image 3"/>
 <br />
 <br />
-Leave everything else as default scroll to the bottom and click create bucket. <br/>
+
 <img src="https://i.imgur.com/OlsCav4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -51,8 +51,9 @@ The next step I uploaded some objects to the bucket I have created.
 
 Click on upload, click on add files and add the two html files (index.html and error.html). 
 <img src="https://i.imgur.com/AQICKJI.png" height="80%" width="80%" alt="Image 8"/>
+
 <H3>Step 3 – Grant permissions</H3>
-The next step is you need to grant permissions to be able to read these objects. You would need to create a bucket policy. Click on the permission tab scroll down to where is says bucket policy click on edit. When entering the policy details remember to update the arn so it is not the same as mine or else it would not work, click on save changes.
+Tn this final step I had to grant permissions to be able to read the objects. I created a bucket policy. Clicked on the permission tab scroll down to where is says bucket policy click on edit. When entering the policy details remember to update the arn so it is not the same as mine or else it would not work, click on save changes.
 <img src="https://i.imgur.com/mlZjKBx.png" height="80%" width="80%" alt="Image 9"/>
 Based on the policy you have created you will now see a red banner stating, “publicly accessible”, which means the bucket can be access by anyone.
 
