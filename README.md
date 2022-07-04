@@ -36,7 +36,7 @@ Scroll down and untick block all public access. This is a safety feature of S3, 
 <br />
 <br />
 <H3>Step 2 – Enable static website hosting </H3>
-Once I had clicked on the name of my bucket, I clicked on properties and scroll down to the bottom where it says static website hosting and click on edit. I clicked  on enable and make sure host a static website is selected.
+Once I had clicked on the name of my bucket, I clicked on properties and scroll down to the bottom where it says static website hosting and click on edit.
 <img src="https://i.imgur.com/D92cAzu.png" height="80%" width="80%" alt="Image 4"/>
 <br />
 <br />
